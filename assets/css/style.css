@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background: #fff;
+}
+.carousel-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  z-index: 10;
+  padding: 20px 10px;
+  color: #fff;
+  text-align: left;
+  background: #5555;
+  width: 80%;
+  border-top-right-radius: 20px;
+}
+
+/* Custom CSS */
+.page-content {
+  padding-top: 50px;
+}
